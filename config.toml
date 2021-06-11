@@ -81,5 +81,4 @@ theme = "hugo-theme-dream"
   #   jsDate = true
   #   jsDateFormat = "yyyy年MM月dd日"
   
-  [context.production.environment]
-  HUGO_VERSION = "0.83.1"
+  

@@ -1,8 +1,8 @@
 baseurl = "https://two-koalas.com"
 languageCode = "en"
 defaultContentLanguage = "en"
-title = "Hugo Theme Dream"
-theme = "hugo-theme-dream"
+title = "David's Mess that he Made"
+theme = "Cool Dream Face Theme"
 
 # copyright = ""
 
@@ -80,3 +80,6 @@ theme = "hugo-theme-dream"
   # [params.experimental]
   #   jsDate = true
   #   jsDateFormat = "yyyy年MM月dd日"
+
+  [functions]
+  directory = "functions/"

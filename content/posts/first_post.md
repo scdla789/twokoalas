@@ -7,7 +7,7 @@ author: David A.
 # authorlink: https://author.site
 cover: /img/fireworkspac.jpg
 categories:
-  - category1
+  - Holiday
 tags:
   - holiday
   - oceania

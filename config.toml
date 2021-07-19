@@ -1,10 +1,15 @@
 baseurl = "https://two-koalas.com"
 languageCode = "en"
 defaultContentLanguage = "en"
+<<<<<<< HEAD
 title = "Hugo-Theme-Dream"
 theme = "Hugo-Theme-Dream"
+=======
+title = "Global Perspvctvs"
+theme = "Dreamscape 2002"
+>>>>>>> 06fa11c3674c287341a2dabfcbc446318e7dd71c
 
-# copyright = ""
+# copyright = "Swell Industries Inc."
 
 # googleAnalytics = ""
 
@@ -17,7 +22,11 @@ theme = "Hugo-Theme-Dream"
   # backgroundImage = "/me/background.jpg"
   linkColor = "seagreen"
 
+<<<<<<< HEAD
    #dark mode
+=======
+   dark mode
+>>>>>>> 06fa11c3674c287341a2dabfcbc446318e7dd71c
    defaultDark = true
    backgroundDark = "black"
    backgroundImageDark = "/me/background-dark.jpg"
@@ -26,10 +35,10 @@ theme = "Hugo-Theme-Dream"
    dark404 = true
 
   author = "Two Koalas"
-  # description = ""
+  # description = "Two Koalas Documented Will to Survive the Pre Apocalypse"
   avatar = "/img/koalaheader.png"
   # headerTitle = ""
-  motto = "Life from above 1989"
+  motto = "ONE drink before bed NINE, es tut mir leid EIGHT (figures) NINE lives"
   # maxTags = 5
   # categoriesLimitInHeader = 6 # deprecated
   # headerBottomText = "" # deprecated
@@ -47,14 +56,14 @@ theme = "Hugo-Theme-Dream"
   email = "davidaragon97@gmail.com"
   # twitter = ""
   # facebook = ""
-  # instagram = ""
+  instagram = "instagram.com/toohott2handel"
   # mastodon = ""
   # linkedin = ""
   # github = ""
   # stackoverflow = ""
   # codepen = ""
 
-  siteStartYear = 2016
+  siteStartYear = 2021
 
   # favicon = "/favicon.ico"
 
@@ -80,6 +89,11 @@ theme = "Hugo-Theme-Dream"
   # [params.experimental]
   #   jsDate = true
   #   jsDateFormat = "yyyy年MM月dd日"
+<<<<<<< HEAD
 
   [functions]
   directory = "functions/"
+=======
+  
+  
+>>>>>>> 06fa11c3674c287341a2dabfcbc446318e7dd71c

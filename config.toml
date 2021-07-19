@@ -1,8 +1,8 @@
 baseurl = "https://two-koalas.com"
 languageCode = "en"
 defaultContentLanguage = "en"
-title = "Hugo-Theme-Dream"
-theme = "Hugo-Theme-Dream"
+title = "hugo-theme-dream"
+theme = "hugo-theme-dream"
 
 # copyright = "Swell Industries Inc."
 

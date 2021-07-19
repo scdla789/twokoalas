@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>oceania on Hugo-Theme-Dream</title>
+    <link>https://two-koalas.com/tags/oceania/</link>
+    <description>Recent content in oceania on Hugo-Theme-Dream</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Tue, 04 May 2021 21:40:40 -0700</lastBuildDate><atom:link href="https://two-koalas.com/tags/oceania/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>First_post</title>
+      <link>https://two-koalas.com/posts/first_post/</link>
+      <pubDate>Tue, 04 May 2021 21:40:40 -0700</pubDate>
+      
+      <guid>https://two-koalas.com/posts/first_post/</guid>
+      <description>&lt;p&gt;Lit a sparkler or two in Pacifica for the Fourth of July&lt;/p&gt;</description>
+    </item>
+    
+  </channel>
+</rss>

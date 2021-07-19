@@ -1,8 +1,8 @@
 baseurl = "https://two-koalas.com"
 languageCode = "en"
 defaultContentLanguage = "en"
-title = "David's Mess that he Made"
-theme = "Cool Dream Face Theme"
+title = "Hugo-Theme-Dream"
+theme = "Hugo-Theme-Dream"
 
 # copyright = ""
 
@@ -17,13 +17,13 @@ theme = "Cool Dream Face Theme"
   # backgroundImage = "/me/background.jpg"
   linkColor = "seagreen"
 
-  # dark mode
-  # defaultDark = true
-  # backgroundDark = "black"
-  # backgroundImageDark = "/me/background-dark.jpg"
-  # darkLinkColor = "darkseagreen"
-  # darkNav = true
-  # dark404 = true
+   #dark mode
+   defaultDark = true
+   backgroundDark = "black"
+   backgroundImageDark = "/me/background-dark.jpg"
+   darkLinkColor = "darkseagreen"
+   darkNav = true
+   dark404 = true
 
   author = "Two Koalas"
   # description = ""

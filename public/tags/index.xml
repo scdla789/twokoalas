@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tags on Hugo-Theme-Dream</title>
+    <link>https://two-koalas.com/tags/</link>
+    <description>Recent content in Tags on Hugo-Theme-Dream</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Tue, 04 May 2021 21:40:40 -0700</lastBuildDate><atom:link href="https://two-koalas.com/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>holiday</title>
+      <link>https://two-koalas.com/tags/holiday/</link>
+      <pubDate>Tue, 04 May 2021 21:40:40 -0700</pubDate>
+      
+      <guid>https://two-koalas.com/tags/holiday/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>oceania</title>
+      <link>https://two-koalas.com/tags/oceania/</link>
+      <pubDate>Tue, 04 May 2021 21:40:40 -0700</pubDate>
+      
+      <guid>https://two-koalas.com/tags/oceania/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

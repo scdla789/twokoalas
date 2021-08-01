@@ -58,7 +58,7 @@ theme = "dream"
 
   siteStartYear = 2021
 
-  favicon = "/img/7a33c88d1bb2f3ee393ca0fb05e9332c.ico"
+  favicon = "/img/favicon.ico"
 
 
   # highlightjs = true

@@ -29,6 +29,10 @@
 <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/github-markdown-css@4.0.0/github-markdown.min.css">
 <link rel="stylesheet" href="{{ "/css/site.css" | relURL }}" />
 
+<!-- Google Tag Manager-->
+
+{{ if .Site.Params.gtm_id}}{{- partial "gtm.html" . }}{{ end }}
+
 <style>
   a:not(.ui.button):hover {
     text-decoration: underline;

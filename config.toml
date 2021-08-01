@@ -56,11 +56,8 @@ theme = "hugo-theme-dream"
 
   siteStartYear = 2021
 
-<<<<<<< HEAD
   favicon = /img/7a33c88d1bb2f3ee393ca0fb05e9332c.ico
-=======
-  favicon = "/img/favicon.ico"
->>>>>>> 9ec04f519b4e546be07665f536a58307517274a7
+
 
   # highlightjs = true
   # highlightjsCDN = "https://cdn.jsdelivr.net/gh/highlightjs/cdn-release/build/highlight.min.js"

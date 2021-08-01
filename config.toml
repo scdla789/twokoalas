@@ -6,15 +6,13 @@ theme = "dream"
 
 # copyright = "Swell Industries Inc."
 
- googleAnalytics = "G-D0SP0T6GEQ"
+ googleAnalytics = "UA-203745716-1"
 
 # disqusShortname = ""
 
 # enableRobotsTXT = true
 
 [params]
-  gtm_id = "G-D0SP0T6GEQ"
-  gtm_ga = true
   background = "#f7f7f7"
   # backgroundImage = "/me/background.jpg"
   linkColor = "seagreen"

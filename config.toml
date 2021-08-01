@@ -1,7 +1,7 @@
 baseurl = "https://two-koalas.com"
 languageCode = "en"
 defaultContentLanguage = "en"
-title = "hugo-theme-dream"
+title = "Two Koalas"
 theme = "hugo-theme-dream"
 
 # copyright = "Swell Industries Inc."
@@ -28,13 +28,13 @@ theme = "hugo-theme-dream"
   author = "Two Koalas"
   # description = "Two Koalas Documented Will to Survive the Pre Apocalypse"
   avatar = "/img/koalaheader.png"
-  # headerTitle = ""
+  headerTitle = "Two Koalas Online Portal"
   motto = "ONE drink before bed NINE, es tut mir leid EIGHT (figures) NINE lives"
   # maxTags = 5
   # categoriesLimitInHeader = 6 # deprecated
   # headerBottomText = "" # deprecated
 
-  # footerBottomText = "created by Two Koalas"
+   footerBottomText = "created by Two Koalas"
 
   # rss = true
 

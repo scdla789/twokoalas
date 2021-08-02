@@ -6,7 +6,7 @@ theme = "dream"
 
 # copyright = "Swell Industries Inc."
 
- googleAnalytics = "UA-203783559-1"
+ googleAnalytics = "G-XMEDT2V279"
 
 
 # disqusShortname = ""
@@ -23,7 +23,7 @@ theme = "dream"
    #dark mode
    defaultDark = true
    backgroundDark = "black"
-   backgroundImageDark = "/me/background-dark.jpg"
+   #backgroundImageDark = "/me/background-dark.jpg"
    darkLinkColor = "darkseagreen"
    darkNav = true
    dark404 = true

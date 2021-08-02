@@ -8,9 +8,7 @@
 
     {{ partial "head.html" . }}
 
-    {{- if not .Site.IsServer }}
-		    {{ partial "google_analytics.html" . }}
-    	{{- end }}
+    
 
     {{ block "css" . }} {{ end }}
 

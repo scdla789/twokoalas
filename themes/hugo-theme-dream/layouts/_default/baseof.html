@@ -8,6 +8,10 @@
 
     {{ partial "head.html" . }}
 
+    {{- if not .Site.IsServer }}
+		    {{ partial "google_analytics.html" . }}
+    	{{- end }}
+
     {{ block "css" . }} {{ end }}
 
     {{ range .Site.Params.Advanced.customCSS }}
@@ -58,8 +62,6 @@
     <script src="{{ . | relURL }}"></script>
     {{ end }}
 
-    {{ if .Site.GoogleAnalytics }}
-    {{ template "_internal/google_analytics_async.html" . }}
-    {{ end }}
+  
   </body>
 </html>

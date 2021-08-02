@@ -23,7 +23,7 @@ theme = "dream"
    #dark mode
    defaultDark = true
    backgroundDark = "black"
-   #backgroundImageDark = "/me/background-dark.jpg"
+
    darkLinkColor = "darkseagreen"
    darkNav = true
    dark404 = true

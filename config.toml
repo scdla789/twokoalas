@@ -6,7 +6,7 @@ theme = "dream"
 
 # copyright = "Swell Industries Inc."
 
- googleAnalytics = "G-XMEDT2V279"
+ 
 
 
 # disqusShortname = ""
@@ -14,6 +14,7 @@ theme = "dream"
 # enableRobotsTXT = true
 
 [params]
+GoogleAnalyticsID = "G-XMEDT2V279"
   gtm_id = "GTM-5SVKH6C"
   gtm_ga = true
   background = "#f7f7f7"

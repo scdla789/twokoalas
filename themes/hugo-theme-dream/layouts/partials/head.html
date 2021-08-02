@@ -4,8 +4,6 @@
 
  {{ if .Site.Params.gtm_id}}{{- partial "gtm.html" . }}{{ end }} 
 
-{{ template "_internal/google_analytics.html" . }}
-{{ template "_internal/google_analytics_async.html" . }}
 
 
 {{ if eq .Type "posts" }}

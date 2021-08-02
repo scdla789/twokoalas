@@ -2,9 +2,7 @@
 <link href="{{ .Site.Params.favicon }}" rel="shortcut icon" type="image/x-icon" />
 {{ end }}
 
-<!-- Google Tag Manager-->
-
-{{ if isset .Site.Params "gtm_id"}}{{ partial "gtm.html" . }}{{ end }}
+{{ if .Site.Params.gtm_id}}{{- partial "gtm.html" . }}{{ end }}
 
 
 {{ if eq .Type "posts" }}

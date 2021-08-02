@@ -8,13 +8,15 @@ theme = "dream"
 
  googleAnalytics = "UA-203745716-1"
 
+  gtm_id = "GTM-5SVKH6C"
+  gtm_ga = true
+
 # disqusShortname = ""
 
 # enableRobotsTXT = true
 
 [params]
-  gtm_id = "GTM-5SVKH6C"
-  gtm_ga = true
+ 
   background = "#f7f7f7"
   # backgroundImage = "/me/background.jpg"
   linkColor = "seagreen"

@@ -2,7 +2,7 @@
 <link href="{{ .Site.Params.favicon }}" rel="shortcut icon" type="image/x-icon" />
 {{ end }}
 
-<!-- {{ if .Site.Params.gtm_id}}{{- partial "gtm.html" . }}{{ end }} -->
+ {{ if .Site.Params.gtm_id}}{{- partial "gtm.html" . }}{{ end }} 
 
 {{ template "_internal/google_analytics.html" . }}
 {{ template "_internal/google_analytics_async.html" . }}

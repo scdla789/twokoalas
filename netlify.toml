@@ -1,6 +1,6 @@
 [build]
 publish = "public"
-command = "hugo --gc --minify"
+command = "hugo mod graph && hugo --gc --minify"
 context = "production"
 
 [context.production.environment]

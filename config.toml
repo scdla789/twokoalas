@@ -4,7 +4,7 @@ defaultContentLanguage = "en"
 title = "Two Koalas"
 theme = "hugo-theme-dream"
 
-# copyright = "Swell Industries Inc."
+# copyright = "two-koalas inc."
 
  
 
@@ -33,7 +33,7 @@ GoogleAnalyticsID = "G-XMEDT2V279"
   # description = "Two Koalas Documented Will to Survive the Pre Apocalypse"
   avatar = "/img/koalaheader.png"
   headerTitle = "Two Koalas Online Portal"
-  motto = "ONE drink before bed NINE, es tut mir leid EIGHT (figures) NINE lives"
+  motto = "Gettin while the gettin is good"
   # maxTags = 5
   # categoriesLimitInHeader = 6 # deprecated
   # headerBottomText = "" # deprecated
@@ -48,10 +48,10 @@ GoogleAnalyticsID = "G-XMEDT2V279"
   # LEANCLOUD_APP_ID = ""
   # LEANCLOUD_APP_KEY = ""
 
-  email = "davidaragon97@gmail.com"
+  email = "david@two-koalas.com"
   # twitter = ""
   # facebook = ""
-  instagram = "instagram.com/toohott2handel"
+  instagram = "instagram.com/two_koalas_travel"
   # mastodon = ""
   # linkedin = ""
   # github = ""

@@ -13,6 +13,11 @@ theme = "hugo-theme-dream"
 
 # enableRobotsTXT = true
 
+[module]
+  [module.hugoVersion]
+    extended = true
+    min = '0.87.0'
+
 [params]
 GoogleAnalyticsID = "G-XMEDT2V279"
   gtm_id = "GTM-5SVKH6C"
